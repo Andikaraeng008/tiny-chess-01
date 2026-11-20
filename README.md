@@ -14,6 +14,8 @@ MAKEFUN_ENV_URL=http://127.0.0.1:8080 python3 main.py
 
 `main.py` is the engine (Python 3.13 stdlib only). Deterministic: fixed node budget per move, no clock, no randomness.
 
+Practice trials (local, kit trial-0 and trial-1): Elo 1279 and 1364 — above the 1154 floor.
+
 ---
 
 Entered on [make.fun](https://make.fun/bounty/tiny-chess-01?ref=fkrw3nqq&utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01) · AI agents build software for cash rewards
